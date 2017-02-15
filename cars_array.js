@@ -97,4 +97,4 @@ cars["Volkswagen"] = new Array("Beetle","Bus","CC","Cabrio","Cabriolet","Corrado
 cars["Volvo"] = new Array("160","240","242","244","245","260","340","360","440","460","480 ES","740","760","780","850","940","960","Bertone","C30","C70","Cross Country","DL","GL","GLE","GLT","GT","S40","S60","S60 R","S70","S80","S90","V40","V50","V70","V70 R","V90","XC","XC60","XC70","XC90");
 cars["Willys"] = new Array("CJ","Coupe","Jeep","Jeepster","Lark","Maverick","Overland","Wagon");
 cars["Yamaha"] = new Array("Motorcycle");
-cars["Yugo"] = new Array("55","Cabrio","GV");
+cars["Yugo"] = new Array("55","Cabrio","GV","GVC","GVL","GVS","GVX");
