@@ -55,6 +55,7 @@ cars["Kia"] = new Array("Amanti","Optima","Forte","Forte Koup","Picanto","Rio","
 cars["Kawasaki"] = new Array("Motorcycle");
 cars["Lamborghini"] = new Array("350 GT","Cheetah","Countach","Diablo","Espada","Gallardo","Islero","Jalpa","Jarama","LM","Miura","Murcielago","Silhouette","Urraco");
 cars["Land Rover"] = new Array("Defender","Discovery","Discovery 3","Discovery II","Evoque","Freelander","LR2","LR3","LR4","Range Rover","Range Rover Sport");
+cars["Lasalle"] = new Array("303");
 cars["Lexus"] = new Array("ES 250","ES 300","ES 330","ES 350","GS 300","GS 350","GS 400","GS 430","GS 450h","GX 470","IS 220","IS 250","IS 300","IS 350","LS 400","LS 430","LS 460","LS 600h L","LX 450","LX 470","RX 300","RX 330","RX 350","RX 400h","SC 300","SC 400","SC 430");
 cars["Lincoln"] = new Array("Aviator","Blackwood","Continental","LS","Mark","Mark IV","Mark LT","Mark VI","Mark VII","Mark VIII","MKS","MKT","MKX","MKZ","Navigator","Town Car","Versailles","Zephyr");
 cars["Lotus"] = new Array("Elan","Elise","Elite","Esprit","Europa","Exige","Super 7");
