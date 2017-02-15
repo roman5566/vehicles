@@ -85,6 +85,7 @@ cars["Saturn"] = new Array("Aura","Ion","Ion Red Line","L","L300","LS","LW","Out
 cars["Scion"] = new Array("iQ","FR-S","tC","xA","xB","xD");
 cars["Shelby"] = new Array("Cobra","GT");
 cars["Smart"] = new Array("forfour","fortwo","Roadster");
+cars["Sterling"] =new Array("800 Series");
 cars["Studebaker"] = new Array("Avanti","Cantrell","Champ","Champion","Commander","Daytona","Erskine","Golden Hawk","GT","Hawk","Land Cruiser","Lark","M-Series","Pickup","President","Speedster","Starlight","Transtar");
 cars["Subaru"] = new Array("B9","B9 Tribeca","Baja","Brat","DL","Forester","G3X Justy","GL","GL-10","GLF","Impreza","Impreza WRX STI","Justy","Legacy","Liberty","Loyale","Motorcycle","Outback","Outback Sport","RX","Standard","STi","SVX","Tribeca","WRX","WRX STi","XT","XT6");
 cars["Sunbeam"] = new Array("Alpine","Talbot","Tiger");
