@@ -127,6 +127,21 @@ return array (
         'value' => 'ACUOTH',
         'title' => 'Other Acura Models',
       ),
+      24 =>
+      array (
+        'value' => 'EL_Models',
+        'title' => 'EL Models (2)',
+      ),
+      25 =>
+      array (
+        'value' => '1.6 EL',
+        'title' => '1.6 EL',
+      ),
+      26 =>
+      array (
+        'value' => '1.7 EL',
+        'title' => '1.7 EL',
+      ),
     ),
   ),
   1 => 
