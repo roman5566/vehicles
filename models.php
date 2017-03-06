@@ -144,114 +144,114 @@ return array (
       ),
     ),
   ),
-    1 => 
+1 => 
+array (
+'value' => 'ALFA',
+'title' => 'Alfa Romeo',
+'models' => 
+array (
+  0 =>
   array (
-    'value' => 'ALFA',
-    'title' => 'Alfa Romeo',
-    'models' => 
-    array (
-	    0 =>
-	    array (
-		    'value' => 'ALFA33',
-		    'title' => '33',
-	  ),
-	    1 =>
-	    array (
-		    'value' => 'ALFA75',
-		    'title' => '75',
-	  ),
-	    2 =>
-	    array (
-		    'value' => 'ALFA145',
-		    'title' => '145',
-	  ), 
-	    3 =>
-	    array (
-		    'value' => 'ALFA146',
-		    'title' => '146',
-	  ),
-	    4 =>
-	    array (
-		    'value' => 'ALFA147',
-		    'title' => '147',
-	  ),
-	    5 =>
-	    array (
-		    'value' => 'ALFA155',
-		    'title' => '155',
-	  ),
-	    6 =>
-	    array (
-	    	'value' => 'ALFA157',
-	    	'title' => '175',
-	  ),
-	    7 =>
-	    array (
-		    'value' => 'ALFA159',
-		    'title' => '159',
-	  ),	  
-	    8 => 
-      array (
-        'value' => 'ALFA164',
-        'title' => '164',
-    ),
-	    9 =>
-	    array (
-		    'value' => 'ALFA166',
-		    'title' => '166',
-	  ),
-	    10 =>
-	    array (
-		    'value' => 'Alfetta',
-		    'title' => 'Alfetta',
-	  ),
-      11 => 
-      array (
-        'value' => 'ALFA8C',
-        'title' => '8C Competizione',
-    ),
-	    12 =>
-	    array (
-		    'value' => 'AlFAGT',
-		    'title' => 'GT',
-	  ),
-	    13 =>
-	    array (
-		    'value' => 'ALFAGTV',
-		    'title' => 'GTV',
-	  ),
-      14 => 
-      array (
-        'value' => 'ALFAGTV6',
-        'title' => 'GTV-6',
-    ),
-      15 => 
-      array (
-        'value' => 'MIL',
-        'title' => 'Milano',
-    ),
-	    16 =>
-	    array (
-		    'value' => 'MITO',
-		    'title' => 'Mito',
-	  ),
-      17 => 
-      array (
-        'value' => 'SPID',
-        'title' => 'Spider',
-    ),
-	    18 =>
-	    array (
-		    'value' => 'GUILETTA',
-		    'title' => 'Guiletta',
-	  ),
-      19 => 
-      array (
-        'value' => 'ALFAOTH',
-        'title' => 'Other Alfa Romeo Models',
-      ),
-    ),
+	'value' => 'ALFA33',
+	'title' => '33',
   ),
+  1 =>
+  array (
+	'value' => 'ALFA75',
+	'title' => '75',
+  ),
+  2 =>
+  array (
+	'value' => 'ALFA145',
+	'title' => '145',
+  ), 
+  3 =>
+  array (
+	'value' => 'ALFA146',
+	'title' => '146',
+  ),
+  4 =>
+  array (
+	'value' => 'ALFA147',
+	'title' => '147',
+  ),
+  5 =>
+  array (
+	'value' => 'ALFA155',
+	'title' => '155',
+  ),
+  6 =>
+  array (
+	'value' => 'ALFA157',
+	'title' => '175',
+  ),
+  7 =>
+  array (
+	'value' => 'ALFA159',
+	'title' => '159',
+  ),	  
+  8 => 
+  array (
+	'value' => 'ALFA164',
+	'title' => '164',
+  ),
+  9 =>
+  array (
+	'value' => 'ALFA166',
+	'title' => '166',
+  ),
+  10 =>
+  array (
+	'value' => 'Alfetta',
+	'title' => 'Alfetta',
+  ),
+  11 => 
+  array (
+	'value' => 'ALFA8C',
+	'title' => '8C Competizione',
+  ),
+  12 =>
+  array (
+	'value' => 'AlFAGT',
+	'title' => 'GT',
+  ),
+  13 =>
+  array (
+	'value' => 'ALFAGTV',
+	'title' => 'GTV',
+  ),
+  14 => 
+  array (
+	'value' => 'ALFAGTV6',
+	'title' => 'GTV-6',
+  ),
+  15 => 
+  array (
+	'value' => 'MIL',
+	'title' => 'Milano',
+  ),
+  16 =>
+  array (
+	'value' => 'Mito',
+	'title' => 'Mito',
+  ),
+  17 => 
+  array (
+	'value' => 'SPID',
+	'title' => 'Spider',
+  ),
+  18 =>
+  array (
+	'value' => 'GUILETTA',
+	'title' => 'Guiletta',
+  ),
+  19 => 
+  array (
+	'value' => 'ALFAOTH',
+	'title' => 'Other Alfa Romeo Models',
+  ),
+ ),
+),
   2 => 
   array (
     'value' => 'AMC',
