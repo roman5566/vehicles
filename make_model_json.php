@@ -21,11 +21,11 @@
 			}
 	,			{
 				"Make": "Acura",
-				"Models": ["Other","CL","ILX","ILX Hybrid","Integra","Legend","MDX","NSX","RDX","RL","RLX","RSX","SLX","TL","TSX","Vigor","ZDX"]
+				"Models": ["Other","2.2CL","2.3CL","3.0CL",""3.2CL",,"CL","1.6EL","1.7EL","EL","ILX","ILX Hybrid","Integra","Legend","MDX","NSX","RDX","3.5RL","RL","RLX","RSX","SLX","2.5TL","3.2TL","TL","TSX","Vigor","ZDX"]
 			}
 	,			{
 				"Make": "Alfa Romeo",
-				"Models": ["Other","164","1750","1900","2000","2600","6C-2500","8c Competizione","Alfetta","Duetto","Giulia","Giulietta","Graduate","GTV","GTV-6","Milano","Quadrifoglio","Spider","Sports Sedan","Sprint"]
+				"Models": ["Other","33","75","145","146","147","155","157","159","164","166",,"1750","1900","2000","2600","6C-2500","8c Competizione","Alfetta","Duetto","Giulia","Giulietta","Graduate","GTV","GTV-6","Milano","Mito","Quadrifoglio","Spider","Sports Sedan","Sprint"]
 			}
 	,			{
 				"Make": "Am General",
